@@ -1,0 +1,2 @@
+# Factorial
+tugas factorial
